@@ -685,7 +685,7 @@
 }
 .section-six{
     height: 853px;
-    background-image: url(/src/images/фон_вопросы\ 1.png);
+    background-image: url(../images/фон_вопросы\ 1.png);
     background-repeat: no-repeat;
     
 }
@@ -805,7 +805,7 @@
     display: inline-block;
     width: 13px;
     height: 12px;
-    background-image: url(/src/icons/Vector.svg);
+    background-image: url(../icons/Vector.svg);
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
@@ -820,7 +820,7 @@
 }
 .map{
     height: 650px;
-    background-image: url(/src/images/map.jpg);
+    background-image: url(../images/map.jpg);
 }
 .map__contacts{
     position: absolute;
